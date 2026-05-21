@@ -96,8 +96,8 @@ Create account and generate API keys from API Management.
 Create a `.env` file in project folder:
 
 ```env
-BINANCE_API_KEY=your_api_key
-BINANCE_API_SECRET=your_secret_key
+API_KEY=your_api_key
+API_SECRET=your_secret_key
 ```
 
 
