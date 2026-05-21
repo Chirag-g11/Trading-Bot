@@ -1,0 +1,6 @@
+2026-05-19 12:27:30,662 - INFO - Request -> Symbol:BTCUSDT, Side:BUY, Type:MARKET, Qty:0.001, Price:None
+2026-05-19 12:27:30,663 - ERROR - Unexpected Error: API Secret required for private endpoints
+2026-05-21 02:55:26,439 - INFO - Request -> Symbol:BTCUSDT, Side:BUY, Type:MARKET, Qty:0.001, Price:None
+2026-05-21 02:55:26,439 - ERROR - Unexpected Error: API Secret required for private endpoints
+2026-05-21 02:56:20,131 - INFO - Request -> Symbol:BTCUSDT, Side:BUY, Type:MARKET, Qty:0.001, Price:None
+2026-05-21 02:56:20,847 - INFO - Response -> {'orderId': 13169715899, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJffd72db1aeee911227f54b', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1779312381352}
